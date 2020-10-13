@@ -8,7 +8,7 @@ Blazor Webassembly using .Net Core & Entity Framework 3
 * Microsoft.EntityFrameworkCore.SqlServer
 
 ## Don't Forget
-* install dotnet tool install --global dotnet-ef
+* Install dotnet tool install --global dotnet-ef
 * Add Initial Migration (dotnet ef migrations add AddCustomer)
 * Update Database (dotnet ef database update)
 
